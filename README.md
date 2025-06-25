@@ -1,0 +1,2 @@
+# Task2
+SQL DEVELOPER INTERNSHIP (task2)
